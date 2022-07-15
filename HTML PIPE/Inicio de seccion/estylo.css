@@ -1,0 +1,38 @@
+html{
+    height: 100px;
+    background-color:#1D1771;
+}
+.contenedor{
+    background-color: #473EBD;
+    margin: 150px 400px;
+    border-radius: 10px;
+    
+}
+.contenedor input{
+    border: none;
+    width: 700px;
+    background-color: #9F99F2;
+    padding: 30px 0px;
+    margin: 10px 0px;
+    border-bottom: 2px solid;
+}
+.contenedor label{
+    color: aliceblue;
+    
+}
+.contenedor h2{
+    color: rgb(131, 27, 67);
+    margin: 0px 0px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 0px;
+    text-align: center;
+}
+.contenedor input[type="submit"]{
+    color: rgb(36, 16, 16);
+    background-color: #2A2570;
+    color: white;
+    letter-spacing: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}

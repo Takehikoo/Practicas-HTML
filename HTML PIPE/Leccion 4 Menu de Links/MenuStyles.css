@@ -1,0 +1,54 @@
+
+.rojo{
+
+    /* #FF0000;*/
+    border: 10px  #FF0000 solid;
+    font-size: 50px;
+    border-radius: 15px  ;
+    margin: 25px 5px;
+    
+}
+.violeta{
+    border:10px solid #800080;
+    font-size: 50px;
+    border-style: dashed;
+    margin: 25px 5px;
+    
+}
+.naranja{
+    border:10px solid #FF5733;
+    font-size: 50px;
+    border-style: outset;
+    margin: 25px 5px;
+}
+.verde{
+    border:10px solid #008000;
+    font-size: 50px;
+    margin: 25px 5px;
+}
+.celeste{
+    border:10px solid #87CEEB;
+    font-size: 50px;
+    margin: 25px 5px;
+}
+.padding{
+    font-size: 50px;
+    padding: 30px;
+    background-color: #87CEEB;
+    text-align: center;
+    border: 10px groove #4169E1;
+    margin: 25px 5px;
+    
+    
+  
+}
+.intento{
+    font-size:350%;
+    padding: 10px;
+    background-color: #FF5733;
+    border: 10px solid;
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+    
+}

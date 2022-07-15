@@ -1,0 +1,43 @@
+
+        h1{
+            font-size: 250%;
+            text-align: center;
+            color:#22223b
+        }
+        p{
+            font-size: 150%;
+            color:rgb(194, 181, 181);
+        }
+        body{
+            background-color: rgb(54, 72, 87);
+            
+        }
+        /* Propiedades de un link sin tocar*/
+       a:link{
+            margin-top: 10px;
+            font-size: 200%;
+            text-decoration: none;
+            padding: 15px 25px;
+       }
+       /* Propiedades de un link ya visitado*/
+       a:visited{
+            color: #995e6a;
+            text-decoration: none;
+       }
+       /*Propiedades de un link cuando estamos encima*/
+        a:hover{
+            color: #b9abab;
+        }
+        /* Cuando mantemos apretado el click de un link*/
+        a:active{
+            color: #881f34;
+        }
+        img{
+            margin-left: 580px;
+            width: 600px;
+            height: 600px;
+           
+        }
+        
+            
+    

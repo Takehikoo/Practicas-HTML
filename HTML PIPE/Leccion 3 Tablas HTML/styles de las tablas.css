@@ -1,0 +1,29 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 100px 200px;
+    font-size: 120%;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    text-align: center;
+    font-size: 160%;
+    background-color: rgb(71, 99, 99);
+    color: rgb(219, 213, 204);
+}
+caption{
+    font-size: 25px;
+    line-height: 40px;
+    background-color: rgba(70, 60, 70, 0.712);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+tr:nth-child(odd){
+    background-color: rgb(140, 125, 155);
+}

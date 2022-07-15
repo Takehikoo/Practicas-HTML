@@ -1,0 +1,26 @@
+body{
+    background-color: #062D61;
+    color: aliceblue;
+}
+section img{
+    width: 500px;
+    height: 300px;
+   margin: 50px 800px;
+}
+
+
+header h1{
+    background-color: #537A9F;
+    text-align: center;
+    padding: 15px;
+    font-size: 40px;
+    color: black;
+    letter-spacing: 5px;
+    
+}
+a:link{
+    color: white;
+    padding: 10px 310px;
+    background-color: #537A9F;
+}
+a:

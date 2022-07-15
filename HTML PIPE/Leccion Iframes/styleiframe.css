@@ -1,0 +1,24 @@
+body{
+    background-color: #52374c  ;
+}
+
+
+h1{
+    text-align: center;
+    background-color: rgb(71, 51, 51) ;
+    color: white;
+    font-family: cursive;
+}
+.Iframe{
+    width: 100%;
+    height: 300px;
+    border: 3px solid rgb(48, 11, 11);
+}
+.Aprete{
+    padding: 10px 15px;
+    color: rgb(17, 19, 19);
+    text-align: left;
+    display: block;
+    font-size: 15px;
+    background-color: rgba(92, 72, 139, 0.521);
+}

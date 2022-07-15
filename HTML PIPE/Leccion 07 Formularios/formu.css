@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(40, 40, 54);
+}
+
+h2{
+
+    text-align: center;
+    color: rgb(107, 51, 51);
+    background-color: rgb(219, 194, 141);
+
+}
+.F-M-W{
+    color: antiquewhite;
+    
+}
+form{
+    display: block;
+    margin: 10px 5px;
+    border: 2px solid;
+
+}
